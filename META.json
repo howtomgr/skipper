@@ -1,0 +1,61 @@
+{
+  "category": "reverse-proxies",
+  "created_date": "2025-09-15T22:48:59.087861",
+  "default_ports": [
+    80,
+    443,
+    9090
+  ],
+  "dependencies": [],
+  "description": "skipper is a free and open-source HTTP router. Skipper provides HTTP router and reverse proxy for service composition",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/reverse-proxies/skipper",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/reverse-proxies/skipper",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:59.087882",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "skipper",
+  "repository_url": "https://github.com/howtomgr/skipper",
+  "spec_version": "2.0",
+  "subcategory": "reverse-proxies",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "reverse-proxies",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "skipper Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/reverse-proxies/skipper"
+}
